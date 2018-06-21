@@ -28,13 +28,15 @@ php artisan vendor:publish
 ```
 
 and select the Provider.
+
 Then. generated config file in `confog/x-frame-options` .
+
 You can edit rules for each path.
 
 
 ## Usage
 
-The library enabled automagically.
+The library enabled automatically.
 
 
 ## Testing
